@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Cursos",
+      "type": "outcome",
+      "category": "Treinamento",
+      "price": 1200,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento App",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2022-08-22T20:51:31.695Z",
+      "id": 4
+    },
+    {
+      "category": "Alimentação",
+      "description": "Iogurte de Banana",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2022-08-22T21:02:38.089Z",
+      "id": 5
+    },
+    {
+      "category": "dsadsd",
+      "description": "asasa",
+      "price": 1123,
+      "type": "income",
+      "createdAt": "2023-02-06T20:29:46.874Z",
+      "id": 6
+    }
+  ]
+}
